@@ -27,9 +27,9 @@
 
 ### Github个人数据
 
-[![梦幽的Github状态](https://github-readme-stats.vercel.app/api?username=mengyou1024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![梦幽的Github状态](https://github-readme-stats.vercel.app/api?username=mengyou1024&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyou1024&hide=html,JavaScript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyou1024&hide=html,JavaScript&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 联系方式：
 
